@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipoxueda.github.io/FcE/sitemap_index.txt
+Sitemap: https://ipoxueda.github.io/TBL/sitemap_index.txt
+Sitemap: https://ipoxueda.github.io/WQw/sitemap_index.txt
+Sitemap: https://ipoxueda.github.io/XlA/sitemap_index.txt
